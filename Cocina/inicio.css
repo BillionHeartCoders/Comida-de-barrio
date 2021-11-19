@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url("/img/Easy\ Ground\ Beef\ Tacos.png");
+    background-repeat: no-repeat;
+}
+
+/* ------------------- */
+
+.menu{
+    background: rgb(55, 55, 134);
+    text-align: center;
+}
+
+.navegacion{
+    display: inline-flex;
+    padding: 5px;
+    list-style: none;
+}
+
+.navegacion li{
+    background: white;
+    text-decoration: none;
+    margin: 20px;
+    border: 1px solid white;
+    border-radius: 0px 15px;
+    padding: 12px;
+}
+
+.navegacion li a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 40px;
+}
+
+/* --------------------------------------- */
+
+.text {
+ text-align: center;
+}
+
+.text h1{
+    padding: 80px 0px 70px 0px;
+    font-size: 125px;
+    color: black;
+}
+
+/* ---------------------------------------- */
+
+div h2{
+    text-align: center;
+    font-size: 55px;
+    margin: 5px 0px;
+
+}
+
+div h3{
+    text-align: center;
+    font-size: 30px;
+    margin: 5px 0px;
+}
+
+div p{
+    background:aqua ;
+    font-size: 19px;
+    text-align: center;
+    margin: 15px 800px;
+
+}
+
+/* ---------------------------------------- */
+
+footer{
+    background: rgb(55, 55, 134);
+    margin-top: 110px;
+}
+
+section{
+    padding: 30px;
+}
+
+section a{
+    background: white;
+    text-decoration: none;
+    color: black;
+    margin: 0px 15px;
+    border: 1px solid white;
+    border-radius: 0px 15px;
+    padding: 10px;
+}
